@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>我喜欢的音乐</title>
+		<link rel="stylesheet" type="text/css" href="css/section.css">
+	</head>
+	<body class="section">
+		<div class="section-content">
+		<header class="tuji-xiugai">
+			<h1>
+				<a href=""><img class="log-img" src="images/personal-web.png"></a>
+				<p class="tuji-adapt-none">童彪-前端工程师-本</p>
+				<span class="logo">personal web</span>
+			</h1>			
+		</header>
+			<section class="section1 wenji-1-section1 tuji-1-section1 adapt-yinyue1-section">
+				<nav class="nav1 wenji-1-nav1 tuji-1-section1 adapt-yinyue1-nav">
+					<p class="nav-top-img tuji-adapt-none"><img src="images/tophead.png"></p>
+					<ul>
+						<li >
+							<a href="section.html">
+								<i class="icon1 "></i>
+								<p href="">首页</p>
+							</a>
+						</li>
+
+						<li>
+							<a href="section-tuji.html">
+								<i class="icon2"></i>
+								<p href="">我的图集</p>
+							</a>
+						</li>
+
+						<li class="">
+							<a href="section-wenji.html">
+								<i class="icon3 "></i>
+								<p href="">我的文集</p>
+							</a>
+						</li>
+
+						<li>
+							<a href="section-jianjie.html">
+								<i class="icon4"></i>
+								<p href="">我的简介</p>
+							</a>
+						</li>	
+
+						<li class="nav-li5">
+							<a href="section-yinyue.html">
+								<i class="icon5 ul-li-i5"></i>
+								<p href="">我喜欢的音乐</p>
+							</a>
+						</li>
+						
+					</ul>
+				</nav>
+
+				<section class="section2 yinyue-1-section">
+					<article class="wenji-article ">
+
+						<p class="public-p tuji-adapt-none"><span><a href="section.html">首页</a></span> > 我喜欢的音乐</p>
+						<article class="yinyue-1-article adapt-yinyue1-ar">
+							<p class="adapt-yinyue1-p">我很好-演唱：刘若英</p>
+							<img src="images/yinyue-back_03.png">
+							<audio controls>
+								<source src="" type="audio/ogg">
+								<source src="css/wohenhao.mp3" type="audio/mpeg">
+							</audio>
+							<ul class="tuji-none adapt-yinyue1-ul">
+								<li class="l-ad1">
+									小到眼泪能冲掉
+								</li>
+								<li>我现在很好</li>
+								<li>可以重新起跑</li>
+								<li>终于能够恨不再疯</li>
+								<li>泪不再掉　心不跑</li>
+								<li>一定会有一个人</li>
+								<li>一段新的美好</li>
+							</ul>
+
+							<ul class="yinyue-1-ul2-right tuji-adapt-none">
+								<li class="yinyue-1-li2"><a href="">沙发上睡着</a></li>
+								<li><a href="">孤单冷醒的破晓</a></li>
+								<li><a href="">冷的面条</a></li>
+								<li><a href="">热的泪痕</a></li>
+								<li><a href="">啤酒在苦笑</a></li>
+								<li><a href="">当时的煎熬</a></li>
+								<li><a href="">当时的心痛如绞</a></li>
+								<li><a href="">天终于亮了</a></li>
+								<li><a href="">遗憾终于退潮</a></li>
+								<li class="yinyue-1-li1"><a href="">终于能够恨不再疯</a></li>
+								<li><a href="">泪不再掉</a></li>
+							</ul>
+							<ul class="tuji-adapt-none">
+								<li class="yinyue-1-li2"><a href="">谁让我拥抱</a></li>
+								<li><a href="">谁让我再一次心跳</a></li>
+								<li><a href="">就算爱情让我再次的跌倒</a></li>
+								<li><a href="">伤痕也要是一种骄傲</a></li>
+								<li><a href="">谁让我拥抱</a></li>
+								<li><a href="">谁让我疯狂的心跳</a></li>
+								<li><a href="">就算明天整个城市要倾倒</a></li>
+								<li class="yinyue-1-li1"><a href="">也让我爱到最后一秒</a></li>
+								<li><a href="">丢掉电影票</a></li>
+								<li><a href="">删掉信件跟合照</a></li>
+								<li><a href="">洗了床单</a></li>
+							</ul>
+							<ul class="yinyue-1-ul-right tuji-adapt-none">
+								<li class="yinyue-1-li2"><a href="">小到眼泪能冲掉</a></li>
+								<li><a href="">我现在很好</a></li>
+								<li><a href="">可以重新起跑</a></li>
+								<li class="yinyue-1-li1"><a href="">终于能够恨不再疯</a></li>
+								<li><a href="">泪不再掉　心不跑</a></li>
+								<li><a href="">一定会有一个人</a></li>
+								<li><a href="">一段新的美好</a></li>
+							
+							</ul>
+						</article>
+					</article>									
+				</section>
+			</section>
+							<nav class="tuji-none adpat-tuji-nav adapt-yinyue1-navboot">
+							<p>
+								<span class="tuji-none-sp3"><a href="">上一页</a></span>
+								<span class="tuji-none-sp4"><a href="">下一页</a></span>
+							</p>
+						</nav>
+			<footer>
+				<ul>
+					<li class="li-1">我的微博：</li>
+				
+					<li class="li-2">如需客服请拨打：15502953003</li>
+					<li class="li-3">咨询QQ：690534989</li>
+				</ul>
+				<p>Copyright&nbsp; &copy; 2010-2013 uidiv.com All Rights Reserved Powered By PHPMyWind</p>
+			</footer>
+			</div>
+	</body>
+</html>
